@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "illuminate/support": "~6.0",
+        "laravel/framework": "^8.12",
         "arcanedev/log-viewer": "~5.0",
         "php":">=7.0"
     },
